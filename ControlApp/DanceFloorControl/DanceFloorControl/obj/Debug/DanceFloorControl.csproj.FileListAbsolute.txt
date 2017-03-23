@@ -1,0 +1,12 @@
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\bin\Debug\DanceFloorControl.exe.config
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\bin\Debug\DanceFloorControl.exe
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\bin\Debug\DanceFloorControl.pdb
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\obj\Debug\DanceFloorControl.csprojResolveAssemblyReference.cache
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\obj\Debug\DanceFloorControl.Properties.Resources.resources
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\obj\Debug\DanceFloorControl.csproj.GenerateResource.Cache
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\obj\Debug\DanceFloorControl.exe
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\obj\Debug\DanceFloorControl.pdb
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\obj\Debug\DanceFloorControl.frmControls.resources
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\bin\Debug\MACTrackBarLib.dll
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\bin\Debug\Midi.dll
+C:\Source\VB\C# Projects\DanceFloorControl\DanceFloorControl\DanceFloorControl\bin\Debug\Midi.xml
